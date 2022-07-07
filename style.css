@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.margin{
+    margin-top: 50px;
+    margin-left: 100px ;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+.header{
+    background-image: url(image/flood.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width:100%;
+    height:500px ;
+    text-align: center;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    font-size: 30px;
+}
+.button{
+    background-color: gray;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(79, 15, 3), rgb(235, 15, 51));
+    padding: 10px 50px ;
+    border-radius: 5px;
+}
+/* 1st section complete */
+
+
+.donate-taka{
+    background-color:aliceblue;
+    text-align: center;
+    height: 350px;
+    padding: 50px;
+}
+.container{
+    list-style-type: none;
+    word-spacing: 20px;
+    padding: 20px;
+}
+ul li{
+    display: inline;
+    font-size:larger;
+}
+.taka{
+    background-color: antiquewhite;
+    border: 1px solid tomato;
+    padding: 20px 10px;
+}
+input{
+    border: none;
+}
+/* 2nd section complete */
+
+
+
+.charity-head-para{
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+
+.charity-plan{
+    width: 33.339%;
+    padding-left: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+
+#food{
+    background-color:aqua
+}
+#medicine{
+    background-color: aquamarine;
+}
+#boat{
+    background-color: bisque;
+}
+/* 3rd section complete */
+
+
+.half-width{
+    width: 50%;
+    margin: 10px;
+}
+.half-width img{
+    width: 100%;
+    border-radius: 5px;
+}
+/* 4th & 5th section complete */
+
+.update{
+    text-align: center;
+}
+.form{
+    text-align: center;
+    width: 300;
+    height: 100px;
+    background-color:bisque ;
+    padding-bottom: 50px 20px;
+    font-size: 50px;
+    margin: 50px 300px;
+    border-radius: 10px;
+}
+#sub-button{
+   background-image:linear-gradient(red, tomato);
+   border-radius: 5px;
+   color: white;
+}
+
+/* 6th section complete  */
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px 500px;
+    margin-bottom: 0;
+}
+h1{
+    font-size: 2em;
+    background-image: linear-gradient(red,tomato);
+}
+/* 7th section complete */
+
